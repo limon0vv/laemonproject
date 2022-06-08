@@ -1,0 +1,39 @@
+body {
+    background-color:black;
+}
+h1 {
+    color:lemonchiffon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size:45px; 
+    background-color:black; 
+    text-align:left;
+    border: 1px solid black;
+    margin-top: 450px;
+}
+p {
+    color:lemonchiffon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 450px;
+}
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: lemonchiffon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li {
+    float:left;
+}
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: black;
+    color:lemonchiffon;
+}
